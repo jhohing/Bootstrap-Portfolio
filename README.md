@@ -14,6 +14,12 @@ For future interviews to display my work and contact information
 -CSS
 -Bootstrap
 
+## Screen shots
+
+.assets/img/index-screenshot.png
+.assets/img/portfolio-screenshot.png
+.assets/img/contact-screenshot.png
+
 ## Live Link
 
 https://jhohing.github.io/Bootstrap-Portfolio/
